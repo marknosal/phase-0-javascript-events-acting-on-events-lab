@@ -1,5 +1,5 @@
 #dodger {
-  background-color: rgb(224, 120, 22);
+  background-color: white;
   height: 20px;
   position: absolute;
   width: 40px;
@@ -16,7 +16,7 @@
 }
 
 #start {
-  color: rgb(255, 255, 255);
+  color: white;
   font-size: 4rem;
   position: relative;
   text-decoration: none;
